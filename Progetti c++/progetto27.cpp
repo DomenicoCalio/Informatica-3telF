@@ -7,6 +7,6 @@ int main() {
     cout<<"Scrivi il tuo nome: "<<endl;
     cin>>name;
     cout<<"Ciao "<<name;
-
+    
     return 0;
 }
